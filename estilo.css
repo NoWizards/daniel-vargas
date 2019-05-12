@@ -99,21 +99,21 @@ footer .social{
 	width: 30px;
 	height: 30px;
 	cursor: pointer;
-	background-image: url("../img/youtube.png");
+	background-image: url("https://i.imgur.com/nHHQBgo.png");
 	background-repeat: no-repeat;
 }
 .youtube:hover{
-	background-image: url("../img/youtube-hover.png");
+	background-image: url("https://i.imgur.com/OMhufej.png");
 }
 .instagram{
 	width: 30px;
 	height: 30px;
 	cursor: pointer;
-	background-image: url("../img/instagram.png");
+	background-image: url("https://i.imgur.com/uMTNteY.png");
 	background-repeat: no-repeat;
 }
 .instagram:hover{
-	background-image: url("../img/instagram-hover.png");
+	background-image: url("https://i.imgur.com/F1x3k90.png");
 }
 
 
@@ -121,7 +121,7 @@ footer .social{
 .sobre-mi{
     height: calc(100vh - 198px);
     overflow: hidden;
-    background: url("../img/sobre-mi-02.jpg");
+    background: url("https://i.imgur.com/1IoXX5B.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -176,7 +176,7 @@ h2
 
 .galeria{
 
-    background: url("../img/galeria-bg01.jpg");
+    background: url("https://i.imgur.com/RxDdhJf.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -241,7 +241,7 @@ h2
 .sobre-mi.contacto{
     height: auto;
     overflow: initial;
-    background: url("../img/sobre-mi-02.jpg");
+    background: url("https://i.imgur.com/1IoXX5B.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
