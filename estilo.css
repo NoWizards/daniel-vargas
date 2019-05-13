@@ -320,7 +320,16 @@ button:hover{
     background:#d0d0e6;
     color:#171717;
 }
-.fa-facebook{
+.fab{
 	color: #fff;
 
+}
+a:hover .fab.fa-youtube{
+    color: red;
+} 
+a:hover .fab.fa-instagram{
+    color: #E1306C;
+}
+a:hover .fab.fa-facebook{
+    color:  #3b5998;
 }
