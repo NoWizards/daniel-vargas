@@ -2,11 +2,11 @@
 /* CSS Document */
 @font-face {
   font-family: "Oswald-Bold";
-  src:url(../fuentes/Oswald-Bold.ttf);
+  src:url(./fuentes/Oswald-Bold.ttf);
 }
 @font-face {
   font-family: "Montserrat-Light";
-  src:url(../fuentes/Montserrat-Light.ttf);
+  src:url(./fuentes/Montserrat-Light.ttf);
 }
 
 *, body{
