@@ -324,12 +324,6 @@ button:hover{
 	color: #fff;
 
 }
-a:hover .fab.fa-youtube{
-    color: red;
+a:hover .fab{
+    color: #95baff;
 } 
-a:hover .fab.fa-instagram{
-    color: #E1306C;
-}
-a:hover .fab.fa-facebook{
-    color:  #3b5998;
-}
